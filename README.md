@@ -4,6 +4,10 @@ _Because sometimes you just want that .chm file without having to download and i
 
 These files are also used to generate [revitapidocs.com](https://www.revitapidocs.com/) and [apidocs.co](https://apidocs.co/) which are web presentation of the same content. You should probably use them instead wink wink.
 
+### LFS
+
+This repository uses [git lfs](https://git-lfs.github.com/).
+
 
 ### Disclaimer
 
